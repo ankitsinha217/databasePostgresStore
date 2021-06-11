@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: springpostgresql
+Implementation-Version: 2.4.0-SNAPSHOT
+Built-By: ANKIT SINHA
+Implementation-Vendor-Id: springbootpostgresql
+Build-Jdk: 1.8.0_71
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
